@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cybercompositions\n"
+"POT-Creation-Date: 2013-11-20 10:45-0000\n"
+"PO-Revision-Date: 2013-11-20 10:45-0000\n"
+"Last-Translator: \n"
+"Language-Team: Ruairi Phelan <rory@cyberdesigncraft.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:80
+msgctxt "sidebar"
+msgid "Front Page Intro"
+msgstr ""
+
+#: ../functions.php:81
+msgid "The Frontpage Intro dynamic sidebar."
+msgstr ""
+
+#: ../functions.php:91
+msgctxt "sidebar"
+msgid "Front Page Call to Action"
+msgstr ""
+
+#: ../functions.php:92
+msgid "This is the Call to Action siderbar on the Front Page."
+msgstr ""
+
+#: ../functions.php:103
+msgctxt "sidebar"
+msgid "Front Page Widgets"
+msgstr ""
+
+#: ../functions.php:104
+msgid ""
+"Front Page Widgets. This widget area can contain contact information etc."
+msgstr ""
+
+#: ../functions.php:144
+msgid "Read More"
+msgstr ""
+
+#: ../page-template-front-page.php.php:14
+msgid "Our Latest News"
+msgstr ""
+
+#: ../page-template-front-page.php.php:73
+msgid "Please add three sticky posts with featured images."
+msgstr ""
+
+#: ../sidebar-front-page-cta.php:12
+msgid "Call To Action Banner"
+msgstr ""
+
+#: ../sidebar-front-page-cta.php:14
+#, php-format
+msgid ""
+"<div class=\"cta-left\">This is a great place to write something specific "
+"that you want your visitors to read.</div><div class=\"cta-right\"><a class="
+"\"button\" href=\"#\">Contact Us Today</a></div><br/><small>%sclick to change"
+"%s</small>"
+msgstr ""
+
+#: ../sidebar-front-page-intro.php:13
+msgid "Crafted Digital Experiences"
+msgstr ""
+
+#: ../sidebar-front-page-intro.php:15
+#, php-format
+msgid ""
+"<p class=\"introduction\">Bringing Ideas and Innovation to life!<br><br><a "
+"href=\"#\" class=\"button\">Our Work</a><br><small>%sclick to change%s</"
+"small></p>"
+msgstr ""
